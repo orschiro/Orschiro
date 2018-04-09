@@ -1,2 +1,5 @@
-# me
-Who am I
+# Robert Orzanna (alias orschiro)
+- [Degrowth](https://degrowth.org/)
+- [Sustainable consumption](http://scorai.org/)
+- [Online spreadsheet management](https://www.sheetgo.com/) 
+- [Digital consciousness](#)
