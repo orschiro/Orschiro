@@ -2,4 +2,4 @@
 - [Degrowth](https://degrowth.org/)
 - [Sustainable consumption](http://scorai.org/)
 - [Online spreadsheet management](https://www.sheetgo.com/) 
-- [Digital consciousness](#)
+- [Digital consciousness](https://docs.google.com/document/d/1sIBshL3_WvG9RLWjA2sTJV0sKgr8MafKVUwkLMC01tA/edit?usp=sharing)
