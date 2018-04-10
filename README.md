@@ -2,4 +2,4 @@
 - Involved in envisioning [#degrowth](https://degrowth.org/) as a new political system
 - Practising and facilitating [#sustainable-consumption](http://scorai.org/)
 - Managing [#online-spreadsheets](https://www.sheetgo.com/) 
-- Thinking about [#digital-consciousness](https://docs.google.com/document/d/1sIBshL3_WvG9RLWjA2sTJV0sKgr8MafKVUwkLMC01tA/edit?usp=sharing)
+- Conceptualising [#digital-consciousness](https://gist.github.com/orschiro/2e1290b49b4e1d6b6195ef52d7c955f6)
