@@ -1,5 +1,5 @@
 # Robert Orzanna (alias orschiro)
-- [Degrowth](https://degrowth.org/)
-- [Sustainable consumption](http://scorai.org/)
-- [Online spreadsheet management](https://www.sheetgo.com/) 
-- [Digital consciousness](https://docs.google.com/document/d/1sIBshL3_WvG9RLWjA2sTJV0sKgr8MafKVUwkLMC01tA/edit?usp=sharing)
+- Involved in envisioning [#degrowth](https://degrowth.org/) as a new political system
+- Practising and facilitating [#sustainable-consumption](http://scorai.org/)
+- Working with [#online-spreadsheet-management](https://www.sheetgo.com/) 
+- Thinking about [#digital-consciousness](https://docs.google.com/document/d/1sIBshL3_WvG9RLWjA2sTJV0sKgr8MafKVUwkLMC01tA/edit?usp=sharing)
