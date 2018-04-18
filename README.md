@@ -1,4 +1,4 @@
-# Robert Orzanna (alias orschiro)
+# Robert Orzanna (orschiro)
 - Involved in envisioning [#degrowth](https://degrowth.org/) as a new political system
 - Practising and facilitating [#sustainable-consumption](http://scorai.org/)
 - Managing [#online-spreadsheets](https://www.sheetgo.com/) 
