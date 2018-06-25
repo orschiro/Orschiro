@@ -1,4 +1,4 @@
-# Robert Orzanna (orschiro) [![](https://i.imgur.com/gr9ROWS.png)](https://www.linkedin.com/in/orschiro)
+# Robert Orzanna (orschiro) [![](https://i.imgur.com/PZApcSj.png)](https://www.linkedin.com/in/orschiro)
 - Curating [degrowth.org](https://degrowth.org/) and [scorai.org](http://scorai.org)
 - Communicating via [@SCORAI_org](https://twitter.com/SCORAI_org)
 - Performing Q&A of subtitles for [amara.org](https://amara.org/en/)
