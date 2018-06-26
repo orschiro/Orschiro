@@ -1,5 +1,1 @@
-# Robert Orzanna (orschiro) [![](https://i.imgur.com/qVT2Z76.png)](https://www.linkedin.com/in/orschiro)
-- Curating [degrowth.org](https://degrowth.org/) and [scorai.org](http://scorai.org)
-- Communicating via [@SCORAI_org](https://twitter.com/SCORAI_org)
-- Performing Q&A of subtitles for [amara.org](https://amara.org/en/)
-- Supporting online spreadsheet users connecting with [Sheetgo](https://www.sheetgo.com/)
+# The joy of life is freedom and awareness.
