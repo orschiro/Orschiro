@@ -1,1 +1,2 @@
-My mission: Consuming sustainably in an imagined degrowth societ–purposefully aided by digital technology.
+## Robert Orzanna
+My mission: [Consuming sustainably](http://scorai.org/) in an imagined [degrowth](https://degrowth.org/) society–purposefully aided by [digital technology](http://sheetgo.com/).
