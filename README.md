@@ -1,1 +1,1 @@
-> The joy of life is freedom and awareness.
+My mission: Consuming sustainably in an imagined degrowth societ–purposefully aided by digital technology.
