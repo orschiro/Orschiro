@@ -1,10 +1,3 @@
-```
-Robert Orzanna <https://orzanna.de>
-orschiro <https://orschi.ro>
-robert at symbol orzanna dot de
+I do software testing for [Sheetgo](http://sheetgo.com/). I administer the websites [degrowth.org](http://degrowth.org), [degrowth.info](http://degrowth.info), and [scorai.org](http://scorai.org). I review subtitles for [amara.org](http://amara.org). I do German customer service for [Just Underwear](http://justunderwear.de).
 
-Being part of the <http://sheetgo.com/> family.
-Being a member of <http://degrowth.org>, <http://degrowth.info> and <http://scorai.org>.
-Subtitling for <http://amara.org>.
-Supporting German customers of <http://justunderwear.de>.
-```
+I am currently looking for a flat in Berlin. If you can help, please [send me an email](https://orzanna.de/email.png).
