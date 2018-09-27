@@ -3,4 +3,4 @@ I do software testing and debugging for [Sheetgo](http://sheetgo.com/). I reques
 
 I am currently looking for a flat in Berlin. If you can help, please [send me an email](https://orzanna.de/email.png).
 
-I live a voluntary quiet life.
+I live a **voluntary quiet life**.
