@@ -2,4 +2,4 @@ I mix [news](https://m.simplepie.org/?feed=http%3A%2F%2Ffeed.informer.com%2Fdige
 
 I am.[¹](https://en.wikipedia.org/wiki/Resonance_(Sociology)) [²](https://en.wikipedia.org/wiki/Bohemianism)
 
-![https://favicon.io/favicon-generator/?t=R&ff=Londrina+Shadow&fs=100&fc=%23000&b=rounded&bc=%23209CEE](https://raw.githubusercontent.com/orschiro/Resonance/master/favicon.ico)
+![https://favicon.io/favicon-generator/?t=R&ff=Londrina+Shadow&fs=100&fc=%23000&b=rounded&bc=%23209CEE](https://raw.githubusercontent.com/orschiro/Resonance/master/favicon.ico)obert Orzanna
