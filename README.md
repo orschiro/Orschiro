@@ -4,7 +4,7 @@ I am in resonance with:
 
 * [Alan Watts - Why Your Life Is Not A Journey](https://vimeo.com/180362221)
 * [Eric Clapton "I shot the sheriff" 1990.12.13 Most Amazing Guitar Solo Ever!](https://youtu.be/Ue9P4c3ByXA?t=296)
-* [Enkh Jargal - Great eagle dance](https://www.youtube.com/watch?v=JVFDAurcu24&index=3&list=RDEMLs2z7g48oAB3SnpDR4BDxA)
+* [Enkh Jargal - Great eagle dance](https://archive.org/details/EnkhJargalGreatEagleDanceJVFDAurcu24)
 * [Erüü Tsagaan Boljmor](https://open.spotify.com/track/6JIYmQ8MtqCGnETSgbGiiX)
 
 ![https://favicon.io/favicon-generator/?t=R&ff=Londrina+Shadow&fs=100&fc=%23000&b=rounded&bc=%23209CEE](https://raw.githubusercontent.com/orschiro/Resonance/master/favicon.ico)
