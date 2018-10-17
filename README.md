@@ -6,5 +6,6 @@ I am in resonance with:
 * [Eric Clapton "I shot the sheriff" 1990.12.13 Most Amazing Guitar Solo Ever!](https://youtu.be/Ue9P4c3ByXA?t=296)
 * [Enkh Jargal - Great eagle dance](https://archive.org/details/EnkhJargalGreatEagleDanceJVFDAurcu24)
 * [Erüü Tsagaan Boljmor](https://archive.org/details/HenriTournierEnkhjargalDandarvaanchigpiEruuTsagaanBoljmorP8jX3N7mwc)
+* A quote from my dear friend Wouter: "En doe je de dingen die je wil doen op de plek waar je wil zijn" (*Do the things you want to do where you want to be*).
 
 ![https://favicon.io/favicon-generator/?t=R&ff=Londrina+Shadow&fs=100&fc=%23000&b=rounded&bc=%23209CEE](https://raw.githubusercontent.com/orschiro/Resonance/master/favicon.ico)
