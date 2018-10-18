@@ -1,4 +1,4 @@
-I mix [news](https://m.simplepie.org/?feed=http%3A%2F%2Ffeed.informer.com%2Fdigests%2FQFNTQVYOWR%2Ffeeder.rss), [videos](http://www.feedbucket.com/?src=http%3A%2F%2Ffeed.informer.com%2Fdigests%2F520RAMSOKD%2Ffeeder.rss) and [podcasts](https://player.fm/orschiro/filter/all). 
+I curate [news](https://m.simplepie.org/?feed=http%3A%2F%2Ffeed.informer.com%2Fdigests%2FQFNTQVYOWR%2Ffeeder.rss), [videos](http://www.feedbucket.com/?src=http%3A%2F%2Ffeed.informer.com%2Fdigests%2F520RAMSOKD%2Ffeeder.rss) and [podcasts](https://player.fm/orschiro/filter/all). 
 
 Today's:
 * recommendation for you: Music from [Arvo Pärt](https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg?autoplay=true&v=A)
