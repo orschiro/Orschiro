@@ -2,7 +2,7 @@ I write a blog ([Medium](https://medium.com/@orschiro), [WordPress](https://orsc
 
 Ways to earn money online:
 
-1. Read aloud: [Narando](https://www.narando.com/samples)
+1. Narrating and read aloud: [Narando](https://www.narando.com/samples)
 2. Transcription, subtitling and captioning: [Amara](https://amara.org/en-gb/recruitment/)
 3. User feedback and testing: [Userbrain](https://tester.userbrain.net)
 4. Survey taking: [Prolific](https://prolific.ac/participants)
