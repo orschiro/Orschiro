@@ -9,6 +9,3 @@ Ways to earn money online:
 5. Survey taking: [Prolific](https://www.prolific.ac/p?ref=5HSY6UCZ) (£1.50 / survey) and [Respondent](https://app.respondent.io/r/robertorzanna-dc40dda76f3b)
 
 ![https://favicon.io/favicon-generator/?t=R&ff=Londrina+Shadow&fs=100&fc=%23000&b=rounded&bc=%23209CEE](https://raw.githubusercontent.com/orschiro/Resonance/master/favicon.ico)
-
-[n1](https://m.simplepie.org/?feed=http%3A%2F%2Ffeed.informer.com%2Fdigests%2F8ZKQONIDJZ%2Ffeeder.rss)
-[n2](http://www.feedbucket.com/?src=http%3A%2F%2Ffeed.informer.com%2Fdigests%2F8ZKQONIDJZ%2Ffeeder.rss)
