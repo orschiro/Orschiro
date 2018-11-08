@@ -1,6 +1,11 @@
-I curate [Deutschlandfunk (Dlf) Podcasts](https://player.fm/orschiro/deutschlandfunk) and share my [favourites](https://player.fm/orschiro/favourites/all). I maintain a [daily tech news digest](https://digest.orzanna.de) in German. You can [let me know](https://www.paypal.me/orschiro) if you like it.
+## Current projects
 
-Ways to earn money online:
+1. [Deutschlandfunk (Dlf) Podcasts](https://i.imgur.com/V4cpXtH.png). [Subscribe now](https://docs.google.com/forms/d/e/1FAIpQLSflZExfiMFZ_-yGPLhlXE7dsaQeWOkj7D6YR9AmP40CzdtfTw/viewform).
+2. My [favourite podcasts](https://i.imgur.com/i1rRIvu.png). [Subscribe now](https://docs.google.com/forms/d/e/1FAIpQLSflZExfiMFZ_-yGPLhlXE7dsaQeWOkj7D6YR9AmP40CzdtfTw/viewform).
+3. Daily tech news [digest](https://i.imgur.com/84Mwglx.png) in German. [Subscribe now](https://docs.google.com/forms/d/e/1FAIpQLSflZExfiMFZ_-yGPLhlXE7dsaQeWOkj7D6YR9AmP40CzdtfTw/viewform).
+4. Video games [playlist]() in German. [Subscribe now](https://docs.google.com/forms/d/e/1FAIpQLSflZExfiMFZ_-yGPLhlXE7dsaQeWOkj7D6YR9AmP40CzdtfTw/viewform).
+
+## Ways to earn money online
 
 1. Universal Basic Income: [Mein Grundeinkommen](https://www.mein-grundeinkommen.de/)
 2. Narrating and read aloud: [Narando](https://www.narando.com/samples)
