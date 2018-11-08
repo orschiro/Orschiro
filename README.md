@@ -1,4 +1,4 @@
-I write a blog ([Medium](https://medium.com/@orschiro), [WordPress](https://orschiro.wordpress.com/)). I curate [Deutschlandfunk (Dlf) Podcasts](https://player.fm/orschiro/deutschlandfunk) and share my [favourites](https://player.fm/orschiro/favourites/all). I maintain a [daily tech news digest](https://digest.orzanna.de) in German. You can [let me know](https://www.paypal.me/orschiro) if you like it.
+I curate [Deutschlandfunk (Dlf) Podcasts](https://player.fm/orschiro/deutschlandfunk) and share my [favourites](https://player.fm/orschiro/favourites/all). I maintain a [daily tech news digest](https://digest.orzanna.de) in German. You can [let me know](https://www.paypal.me/orschiro) if you like it.
 
 Ways to earn money online:
 
