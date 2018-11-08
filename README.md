@@ -1,9 +1,9 @@
 ## Current projects
 
-1. [Deutschlandfunk (Dlf) Podcasts](https://i.imgur.com/V4cpXtH.png). [Subscribe now](https://docs.google.com/forms/d/e/1FAIpQLSflZExfiMFZ_-yGPLhlXE7dsaQeWOkj7D6YR9AmP40CzdtfTw/viewform).
-2. My [favourite podcasts](https://i.imgur.com/i1rRIvu.png). [Subscribe now](https://docs.google.com/forms/d/e/1FAIpQLSflZExfiMFZ_-yGPLhlXE7dsaQeWOkj7D6YR9AmP40CzdtfTw/viewform).
+1. [Deutschlandfunk (Dlf)](https://i.imgur.com/V4cpXtH.png) podcasts. [Subscribe now](https://docs.google.com/forms/d/e/1FAIpQLSflZExfiMFZ_-yGPLhlXE7dsaQeWOkj7D6YR9AmP40CzdtfTw/viewform).
+2. My [favourite](https://i.imgur.com/i1rRIvu.png) podcasts. [Subscribe now](https://docs.google.com/forms/d/e/1FAIpQLSflZExfiMFZ_-yGPLhlXE7dsaQeWOkj7D6YR9AmP40CzdtfTw/viewform).
 3. Daily tech news [digest](https://i.imgur.com/84Mwglx.png) in German. [Subscribe now](https://docs.google.com/forms/d/e/1FAIpQLSflZExfiMFZ_-yGPLhlXE7dsaQeWOkj7D6YR9AmP40CzdtfTw/viewform).
-4. Video games [playlist]() in German. [Subscribe now](https://docs.google.com/forms/d/e/1FAIpQLSflZExfiMFZ_-yGPLhlXE7dsaQeWOkj7D6YR9AmP40CzdtfTw/viewform).
+4. Video games [playlist](https://i.imgur.com/LSza1iq.png) in German. [Subscribe now](https://docs.google.com/forms/d/e/1FAIpQLSflZExfiMFZ_-yGPLhlXE7dsaQeWOkj7D6YR9AmP40CzdtfTw/viewform).
 
 ## Ways to earn money online
 
