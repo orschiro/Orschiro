@@ -1,1 +1,1 @@
-Say hello to [Orschiro's Blog](http://orschi.ro/).
+⟿ [Orschiro's Blog](http://orschi.ro/)
