@@ -8,3 +8,4 @@
 - [Computer-, Handy- & Internethilfe Mannheim](https://goo.gl/maps/c1uTMZX5Mtm)
 - [Alt + Q Switch Tabs Keyboard Shortcut Chrome](https://chrome.google.com/webstore/detail/alt-%20-q-switch-tabs-keybo/odhjcgnlbagjllfbilicalpigimhdcll)
 - [GamersGlobal & Caschys Blog RSS Feed](http://feeds.feedburner.com/GamersglobalCaschysBlog)
+- [Gesund is(s)t, woran du glaubst](https://medium.com/@orschiro/gesund-is-s-t-woran-du-glaubst-b16df8c716a9)
