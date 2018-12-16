@@ -2,7 +2,7 @@
 
 - [Tipps fürs Internet, Chrome, Linux und Android sowie dies und jenes](http://orschi.ro/)
 - [Human and social investment](https://www.oikocredit.coop/)
-- [Ghee selbst herstellen](https://www.zentrum-der-gesundheit.de/ghee-selber-machen.html)
+- [Ghee ganz einfach selbst herstellen](https://medium.com/@orschiro/ghee-ganz-einfach-selbst-herstellen-2f504c399a70)
 - [Earn money with expert interviews](https://app.respondent.io/r/robertorzanna-dc40dda76f3b)
 - [Ist Kaffee gesund? Neue Erkenntnisse zum Lieblingsgetränk der Deutschen](https://audiothek.ardmediathek.de/items/58468266)
 - [Computer-, Handy- & Internethilfe Mannheim](https://goo.gl/maps/c1uTMZX5Mtm)
