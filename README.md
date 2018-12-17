@@ -11,3 +11,5 @@
 9. [Alt + Q Switch Tabs Keyboard Shortcut Chrome Extension](https://chrome.google.com/webstore/detail/alt-%20-q-switch-tabs-keybo/odhjcgnlbagjllfbilicalpigimhdcll)
 10. [GamersGlobal & Caschys Blog kombinierter RSS Feed](http://feeds.feedburner.com/GamersglobalCaschysBlog)
 11. [Gesund is(s)t, woran du glaubst](https://medium.com/@orschiro/gesund-is-s-t-woran-du-glaubst-b16df8c716a9)
+12. [Eric Clapton | Most Amazing Guitar Solo](https://www.youtube.com/watch?v=ZJd7Q0H8C6s&feature=youtu.be)
+13. [Mach mit und gewinne 1000€ Grundeinkommen](www.meinbge.de/fuer-dich/f17431bcf77ddfa8fd0d)
