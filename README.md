@@ -18,3 +18,5 @@ Nimm Teil an der Verlosung des nächsten bedingungslosen Grundeinkommens und gew
 [https://degrowthaudiobook.wordpress.com/](https://degrowthaudiobook.wordpress.com/)
 
 Listen and take part in the Degrowth Audiobook project. Available in several languages.
+
+{% include body.html %}
