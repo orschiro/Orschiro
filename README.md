@@ -2,7 +2,7 @@
 
 ![](Screenshot_2018-12-13_16-53-17.png)
 
-3 results (0,29 seconds) 
+4 results (0,29 seconds) 
 
 #### [Alt + Q Switch Tabs Keyboard Shortcut Chrome Extension](https://chrome.google.com/webstore/detail/alt-%20-q-switch-tabs-keybo/odhjcgnlbagjllfbilicalpigimhdcll)
 [https://chrome.google.com/webstore/detail/alt-%20-q-switch-tabs-keybo/odhjcgnlbagjllfbilicalpigimhdcll](https://chrome.google.com/webstore/detail/alt-%20-q-switch-tabs-keybo/odhjcgnlbagjllfbilicalpigimhdcll)
@@ -18,5 +18,10 @@ Nimm Teil an der Verlosung des nächsten bedingungslosen Grundeinkommens und gew
 [https://degrowthaudiobook.wordpress.com/](https://degrowthaudiobook.wordpress.com/)
 
 Listen and take part in the Degrowth Audiobook project. Available in several languages.
+
+#### [34 Chrome extensions you should have installed](http://orschi.ro/34-chrome-extensions-you-should-have-installed/)
+[http://orschi.ro/34-chrome-extensions-you-should-have-installed/](http://orschi.ro/34-chrome-extensions-you-should-have-installed/)
+
+These 34 Chrome extensions will make your online life significantly easier.
 
 {% include body.html %}
