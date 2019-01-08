@@ -2,6 +2,8 @@
 
 ![](Screenshot_2018-12-13_16-53-17.png)
 
+{% include in-article-ad.html %}
+
 8 results (0,29 seconds) 
 
 #### [Participate in paid expert interviews](https://app.respondent.io/r/robertorzanna-dc40dda76f3b)
