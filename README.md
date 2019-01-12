@@ -6,6 +6,11 @@
 
 8 results (0,29 seconds) 
 
+#### [Die geistigen Gesetze - Das Geheimnis der Macht Deiner Gedanken - Kurt Tepperwein](https://www.youtube.com/watch?v=SJmllHadYF0)
+[https://www.youtube.com/watch?v=SJmllHadYF0](https://www.youtube.com/watch?v=SJmllHadYF0)
+
+*"Das Leben birgt Situationen. Wir selbst machen sie zu Problemen (oder auch nicht)"*, verständlich erklärt von Kurt Tepperwein.
+
 #### [Participate in paid expert interviews](https://app.respondent.io/r/robertorzanna-dc40dda76f3b)
 [https://app.respondent.io/r/robertorzanna-dc40dda76f3b](https://app.respondent.io/r/robertorzanna-dc40dda76f3b)
 
@@ -40,10 +45,5 @@ Want to test some of the Xfce flagships? Here they are. It used to be Xubuntu bu
 [http://orschi.ro/fedora-29-switch-from-suspend-to-hibernate-automatically/](http://orschi.ro/fedora-29-switch-from-suspend-to-hibernate-automatically/)
 
 Jan wrote the excellent blog post Hibernate after suspend (on Fedora) that is still fully applicable to Fedora 29. Follow the instructions to have your laptop switch from suspend to hibernate automatically after 30 minutes. Very useful if normally you just close your lid to suspend and then open the lid again within 30 minutes. But what if not? Then your battery would just drain down. Better to send it to hibernation after 30 minutes.
-
-#### [Excerpt from ABC Classic FM Saturday, 5 January 2019](https://youtu.be/tJGMAgbG2sg)
-[https://youtu.be/tJGMAgbG2sg](https://youtu.be/tJGMAgbG2sg)
-
-Lovely classic music without ads for an enjoyable listen. For more and to listen live, go to https://www.abc.net.au/classic/.
 
 {% include body.html %}
