@@ -1,5 +1,7 @@
 {% include header.html %}
 
+## *Practising inner peace*
+
 ![](Screenshot_2018-12-13_16-53-17.png)
 
 {% include in-article-ad.html %}
