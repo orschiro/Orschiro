@@ -6,7 +6,7 @@
 
 {% include in-article-ad.html %}
 
-8 results (0,29 seconds) 
+7 results (0,29 seconds) 
 
 #### [Die geistigen Gesetze - Das Geheimnis der Macht Deiner Gedanken - Kurt Tepperwein](https://www.youtube.com/watch?v=SJmllHadYF0)
 [https://www.youtube.com/watch?v=SJmllHadYF0](https://www.youtube.com/watch?v=SJmllHadYF0)
@@ -32,11 +32,6 @@ Nimm Teil an der Verlosung des nächsten bedingungslosen Grundeinkommens und gew
 [https://degrowthaudiobook.wordpress.com/](https://degrowthaudiobook.wordpress.com/)
 
 Listen and take part in the Degrowth Audiobook project. Available in several languages.
-
-#### [34 Chrome extensions you should have installed](http://orschi.ro/34-chrome-extensions-you-should-have-installed/)
-[http://orschi.ro/34-chrome-extensions-you-should-have-installed/](http://orschi.ro/34-chrome-extensions-you-should-have-installed/)
-
-These 34 Chrome extensions will make your online life significantly easier.
 
 #### [The best Xfce distros](http://orschi.ro/the-best-xfce-distros/)
 [http://orschi.ro/the-best-xfce-distros/](http://orschi.ro/the-best-xfce-distros/)
