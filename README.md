@@ -5,3 +5,5 @@ Not feeling to be pressured. Not feeling having to achieve something. Not feelin
 *Was bedeutet es, inneren Frieden zu fühlen?* 
 
 Nicht das Gefühl verspüren, unter Druck gesetzt zu werden. Nicht das Gefühl erleben, etwas erreichen zu müssen. Nicht das Bedürfnis verspüren, einen Kaffee zu trinken und dabei etwas anderes zu tun. Nicht den Drang verspüren, mit jemandem zu sprechen und dabei eine Mahlzeit einzunehmen. Nicht das Bedürfnis verspüren, während der Arbeit Musik zu hören. All diese Negationen freiwillig umzukehren, bringt inneren Frieden.
+
+{% include disqus.html %}
