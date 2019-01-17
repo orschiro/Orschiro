@@ -2,6 +2,8 @@
 
 [Edit](https://github.com/orschiro/Orschiro/edit/master/README.md)
 
+# Table of Contents
+
 * TOC
 {:toc}
 
