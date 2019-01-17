@@ -2,6 +2,8 @@
 
 # Index
 
+- edit 
+- respondent 
 - [Promising ETFs to track more closely]()
 - [Gewinne 1000€ Grundeinkommen](https://orzanna.de/#gewinne-1000-grundeinkommen)
 - [Leave a comment](https://orzanna.de/#leave-a-comment)
