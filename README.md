@@ -5,6 +5,7 @@
 {:toc}
 {% include toc.html html=content %}
 
+<script>
 tocbot.init({
   // Where to render the table of contents.
   tocSelector: '.js-toc',
@@ -13,6 +14,7 @@ tocbot.init({
   // Which headings to grab inside of the contentSelector element.
   headingSelector: 'h1, h2, h3',
 });
+</script>
 
 # Index
 
