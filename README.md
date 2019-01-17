@@ -2,6 +2,7 @@
 
 [Edit](https://github.com/orschiro/Orschiro/edit/master/README.md)
 
+* TOC
 {:toc}
 
 # Index
