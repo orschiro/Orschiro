@@ -1,10 +1,11 @@
 {% include header.html %}
 
+[Edit](https://github.com/orschiro/Orschiro/edit/master/README.md)
+
 {:toc}
 
 # Index
 
-- [Edit](https://github.com/orschiro/Orschiro/edit/master/README.md)
 - [Learn entertaining Australian English]()
 - [Seeking data science professionals to take ~20 minute survey $35.00 / 20 minute(s)]()
 - [Promising ETFs to track more closely](https://orzanna.de/#promising-etfs-to-track-more-closely)
@@ -25,9 +26,9 @@ We're looking for data science professionals to tell us about what they do, the 
 
 The below are showing a positive rate for the last weeks.
 
-- LU0458538880 / A0YCZ3 FAIR WORLD FONDS
-- IE00B4ND3602 / A1KWPQ ISHARES PHYS.MET....
-- LU0488317701 / ETF091 C.S.-NYSE AR.GO.B...	
+- LU0458538880 / A0YCZ3 FAIR WORLD FONDS +0,78 %
+- IE00B4ND3602 / A1KWPQ ISHARES PHYS.MET.... +4,91 %
+- LU0488317701 / ETF091 C.S.-NYSE AR.GO.B...	+1,66 %
 
 ### Gewinne 1000€ Grundeinkommen
 Willst du mit mir den Sozialstaat der Zukunft ausprobieren? Dann lass uns zusammen bei dieser Verlosung mitmachen und jeweils ein einjähriges Grundeinkommen von 1.000 Euro im Monat gewinnen. Link zur Teilnahme > [Klick](www.meinbge.de/fuer-dich/f17431bcf77ddfa8fd0d)
