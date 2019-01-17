@@ -5,14 +5,6 @@
 * TOC
 {:toc}
 
-# Index
-
-- [Learn entertaining Australian English]()
-- [Seeking data science professionals to take ~20 minute survey $35.00 / 20 minute(s)]()
-- [Promising ETFs to track more closely](https://orzanna.de/#promising-etfs-to-track-more-closely)
-- [Gewinne 1000€ Grundeinkommen](https://orzanna.de/#gewinne-1000-grundeinkommen)
-- [Leave a comment](https://orzanna.de/#leave-a-comment)
-
 ### Learn entertaining Australian English
 
 [Unmade.fm](https://www.unmade.fm/) great podcast to listen to two guys speaking in their Australian English in a very entertaining way. Totally recommendable!
