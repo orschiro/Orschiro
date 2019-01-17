@@ -34,6 +34,12 @@ We're looking for data science professionals to tell us about what they do, the 
 
 [Participate now](https://app.respondent.io/r/robertorzanna-dc40dda76f3b)
 
+Seeking individuals who currently use a CMS at work $30.00 / 15 minute(s)
+
+What are the most and least important features of a CMS when it comes to your organization's marketing efforts? Join our study to share your input on content management systems and how you'd like to see these tools evolve.
+
+[Participate now](https://app.respondent.io/r/robertorzanna-dc40dda76f3b)
+
 ### Promising ETFs to track more closely
 
 The below are showing a positive rate for the last weeks.
