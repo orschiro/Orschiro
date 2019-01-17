@@ -2,7 +2,7 @@
 
 [Edit](https://github.com/orschiro/Orschiro/edit/master/README.md)
 
-{:toc}
+{:tocs}
 
 {% include toc.html html=content %}
 
