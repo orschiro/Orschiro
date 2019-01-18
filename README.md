@@ -9,6 +9,20 @@
 
 {% include ad.html %}
 
+# Fedora 29: switch from suspend to hibernate automatically
+
+Jan wrote the excellent blog post [Hibernate after suspend (on Fedora)](https://kcore.org/2017/12/22/hibernate-after-suspend-on-fedora/) that is still fully applicable to Fedora 29. Follow the instructions to have your laptop switch from suspend to hibernate automatically after 30 minutes. Very useful if normally you just close your lid to suspend and then open the lid again within 30 minutes.
+
+But what if not? Then your battery would just drain down. Better to send it to hibernation after 30 minutes.
+
+# The best Xfce distros
+
+Want to test some of the [Xfce](http://xfce.org/) flagships? Here they are. It used to be [Xubuntu](https://xubuntu.org/) but nowadays great spins of Xfce are available from [Manjaro](https://manjaro.org/get-manjaro/), [Linux Mint](https://linuxmint.com/download.php), and [Fedora](https://spins.fedoraproject.org/xfce/).
+
+If you want to try some nichy distros, then go ahead with Arch, [Salix](https://www.salixos.org/download.html) (Slackware), [Xebian](http://www.xebian.org/) or [Devuan](https://devuan.org/os/) (Debian) or [MX Linux](https://mxlinux.org/download-links).
+
+Source: [Reddit](https://www.reddit.com/r/xfce/comments/7tsgi3/does_xfce_have_a_flagship_distro_like_fedora_is/)
+
 # Talk with us about your global sourcing experience $100.00 / 60 minute(s)
 
 We're a world scale B2B platform with hundreds of thousands of buyers and suppliers. We'd like to work with you to provide better marketplace for global sourcing.Talk with us about how do you do and what do you want when sourcing globally.
