@@ -7,6 +7,18 @@
 * TOC
 {:toc}
 
+# Talk with us about your global sourcing experience $100.00 / 60 minute(s)
+
+We're a world scale B2B platform with hundreds of thousands of buyers and suppliers. We'd like to work with you to provide better marketplace for global sourcing.Talk with us about how do you do and what do you want when sourcing globally.
+
+[Participate now](https://app.respondent.io/projects/view/5c41431cc8404b00265f5047/talk-with-us-about-your-global-sourcing-experience/robertorzanna-dc40dda76f3b)
+
+# Understanding testing practices in software teams $130.00 / 60 minute(s)
+
+We're seeking to understand how software teams go about testing the quality of their products and the tools they use. During this session, we would ask you about your role, your team, how you do testing on a day to day basis. And with your consent, we would like to see how you use the tools.
+
+[Paricipate now](https://app.respondent.io/projects/view/5c415768ff8f000027c57e22/understanding-testing-practices-in-software-teams/robertorzanna-dc40dda76f3b)
+
 # Learn entertaining Australian English
 
 [Unmade.fm](https://www.unmade.fm/) great podcast to listen to two guys speaking in their Australian English in a very entertaining way. Totally recommendable!
