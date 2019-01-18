@@ -7,6 +7,8 @@
 * TOC
 {:toc}
 
+{% include ad.html %}
+
 # Talk with us about your global sourcing experience $100.00 / 60 minute(s)
 
 We're a world scale B2B platform with hundreds of thousands of buyers and suppliers. We'd like to work with you to provide better marketplace for global sourcing.Talk with us about how do you do and what do you want when sourcing globally.
