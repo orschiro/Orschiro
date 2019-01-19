@@ -11,7 +11,7 @@
 
 Very easy way to switch between two open tabs. Just press Alt + Q. All you have to do is install this extension:
 
-https://chrome.google.com/webstore/detail/alt-%20-q-switch-tabs-keybo/odhjcgnlbagjllfbilicalpigimhdcll
+[Install](https://chrome.google.com/webstore/detail/alt-%20-q-switch-tabs-keybo/odhjcgnlbagjllfbilicalpigimhdcll)
 
 # Seeking cloud Virtual Machine users Compensation: $150.00
 
