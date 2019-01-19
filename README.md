@@ -7,6 +7,12 @@
 * TOC
 {:toc}
 
+# Alt + Q Switch Tabs Keyboard Shortcut for Google Chrome
+
+Very easy way to switch between two open tabs. Just press Alt + Q. All you have to do is install this extension:
+
+https://chrome.google.com/webstore/detail/alt-%20-q-switch-tabs-keybo/odhjcgnlbagjllfbilicalpigimhdcll
+
 # Seeking cloud Virtual Machine users Compensation: $150.00
 
 Do you work in cloud cloud computing and have VM experience? The Microsoft Azure team is looking to speak with users about a new Azure networking feature and collect feedback that will help influence the feature before it is released to the public.
