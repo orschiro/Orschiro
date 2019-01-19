@@ -7,6 +7,18 @@
 * TOC
 {:toc}
 
+# Seeking cloud Virtual Machine users Compensation: $150.00
+
+Do you work in cloud cloud computing and have VM experience? The Microsoft Azure team is looking to speak with users about a new Azure networking feature and collect feedback that will help influence the feature before it is released to the public.
+
+[Start survey](https://app.respondent.io/projects/view/5c426abc06dc1a002ccd4090/seeking-cloud-virtual-machine-users/robertorzanna-dc40dda76f3b)
+
+# Seeking those responsible for managing customer communication channels Compensation: $100.00
+
+We’re looking to speak with professionals responsible for managing multiple communication channels (e.g. email, SMS, push) to converse with customers. Specifically, those who have evaluated, purchased, and implemented “integrated suites” or “best of breed” solutions.
+
+[Start survey](https://app.respondent.io/projects/view/5c3e62790a3662002bca347d/seeking-those-responsible-for-managing-customer-communication-channels/robertorzanna-dc40dda76f3b)
+
 # Fedora 29: switch from suspend to hibernate automatically
 
 Jan wrote the excellent blog post [Hibernate after suspend (on Fedora)](https://kcore.org/2017/12/22/hibernate-after-suspend-on-fedora/) that is still fully applicable to Fedora 29. Follow the instructions to have your laptop switch from suspend to hibernate automatically after 30 minutes. Very useful if normally you just close your lid to suspend and then open the lid again within 30 minutes.
