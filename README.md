@@ -7,8 +7,6 @@
 * TOC
 {:toc}
 
-{% include ad.html %}
-
 # Fedora 29: switch from suspend to hibernate automatically
 
 Jan wrote the excellent blog post [Hibernate after suspend (on Fedora)](https://kcore.org/2017/12/22/hibernate-after-suspend-on-fedora/) that is still fully applicable to Fedora 29. Follow the instructions to have your laptop switch from suspend to hibernate automatically after 30 minutes. Very useful if normally you just close your lid to suspend and then open the lid again within 30 minutes.
@@ -63,8 +61,6 @@ The below are showing a positive rate for the last weeks.
 Willst du mit mir den Sozialstaat der Zukunft ausprobieren? Dann lass uns zusammen bei dieser Verlosung mitmachen und jeweils ein einjähriges Grundeinkommen von 1.000 Euro im Monat gewinnen. Link zur Teilnahme > [Klick](www.meinbge.de/fuer-dich/f17431bcf77ddfa8fd0d)
 
 ![grundeinkommen](https://www.mein-grundeinkommen.de/assets/campaigns/referral/fuer-alle-ba03fa67b0d39921a3ada05c78371db77b2712694ff7ac5e74080cd411391676.png)
-
-{% include ad.html %}
 
 {% include body.html %}
 
