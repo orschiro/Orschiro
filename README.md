@@ -7,6 +7,10 @@
 * TOC
 {:toc}
 
+# Age of Empires 2 HD on Fedora Linux
+
+Works great on Fedora 28. Just install Steam, enable Proton Beta settings for all games and then rename the `AoK HD.exe` to `Launcher.exe` in the folder `/home/username/.local/share/Steam/steamapps/common/Age2HD`.
+
 # Alt + Q Switch Tabs Keyboard Shortcut for Google Chrome
 
 Very easy way to switch between two open tabs. Just press Alt + Q. All you have to do is install this extension:
