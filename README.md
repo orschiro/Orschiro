@@ -2,10 +2,20 @@
 
 [Edit](https://github.com/orschiro/Orschiro/edit/master/README.md)
 
+If you want to leave a comment on anything you find on this page, [click here](https://orzanna.de/#leave-a-comment).
+
+Wenn du für etwas auf dieser Seite einen Kommentar hinterlassen möchtest, dann [klick hier](https://orzanna.de/#leave-a-comment). 
+
 # Table of Contents
 
 * TOC
 {:toc}
+
+# Blauzone Mannheim
+
+Wie lebt man eine sogenannte [Blue zone](https://en.wikipedia.org/wiki/Blue_Zone) / Blauzone im deutschen Mannheim? Genau das will ich in den nächsten Monaten herausfinden. Fest steht, auf den Wochenmarkt gehen, viel im Wald spazieren und einen eigenen Garten beackern. 
+
+Was Ernährung angeht, das muss ich noch herausfinden, wie man das am besten in Mannheim / Deutschland macht.
 
 # Age of Empires 2 HD on Fedora Linux
 
