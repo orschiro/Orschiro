@@ -11,6 +11,12 @@ Wenn du für etwas auf dieser Seite einen Kommentar hinterlassen möchtest, dann
 * TOC
 {:toc}
 
+# Fastest way to search your Linux terminal 
+
+Install [fzf](https://github.com/junegunn/fzf) and press `Ctrl + R` to search your command line history. Amazing stuff!
+
+![](https://i.imgur.com/vw0QXj9.gif)
+
 # Blauzone Mannheim
 
 Wie lebt man eine sogenannte [Blue zone](https://en.wikipedia.org/wiki/Blue_Zone) / Blauzone im deutschen Mannheim? Genau das will ich in den nächsten Monaten herausfinden. Fest steht, auf den Wochenmarkt gehen, viel im Wald spazieren und einen eigenen Garten beackern. 
