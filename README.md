@@ -73,7 +73,7 @@ We're seeking to understand how software teams go about testing the quality of t
 
 # Learn entertaining Australian English
 
-[Unmade.fm](https://www.unmade.fm/) great podcast to listen to two guys speaking in their Australian English in a very entertaining way. Totally recommendable!
+[Unmade.fm](https://www.unmade.fm/) great podcast to listen to two guys speaking in their Australian English in a very entertaining way. Totally recommendable! And they do have a [Patreon page](https://www.patreon.com/unmadeFM) to support them with a monthly donation.
 
 # Seeking data science professionals to take ~20 minute survey $35.00 / 20 minute(s)
 
