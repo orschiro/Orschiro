@@ -17,7 +17,7 @@ Install [fzf](https://github.com/junegunn/fzf) and press `Ctrl + R` to search yo
 
 ![](https://i.imgur.com/vw0QXj9.gif)
 
-# Blauzone Mannheim
+# Blauzone Blue Zone Mannheim
 
 Wie lebt man eine sogenannte [Blue zone](https://en.wikipedia.org/wiki/Blue_Zone) / Blauzone im deutschen Mannheim? Genau das will ich in den nächsten Monaten herausfinden. Fest steht, auf den Wochenmarkt gehen, viel im Wald spazieren und einen eigenen Garten beackern. 
 
