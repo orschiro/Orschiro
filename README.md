@@ -11,6 +11,16 @@ Wenn du für etwas auf dieser Seite einen Kommentar hinterlassen möchtest, dann
 * TOC
 {:toc}
 
+# Aktive Communities GamersGlobal & Caschys Blog via Feedly folgen
+
+Warum lese ich bestimmte Seiten gerne? Weil sie eine aktive Community haben, die viele Kommentare postet. So lese ich z.B. gerne [GamersGlobal](https://www.gamersglobal.de/), wenn es um Spielethemen geht und [Caschys Blog](https://stadt-bremerhaven.de/) für Technik- und Internetthemen. Da wird immer rege diskutiert und kommentiert. Oftmals spannender und interessanter als der Artikel selbst. :-)
+
+So, nächste Frage. Wie am besten diese beiden Seiten filtern, um nur über Highlights informiert zu werden und nicht mit Inhalten geflutet zu werden? GamersGlobal bietet einen [Highlights-RSS-Feed](https://www.gamersglobal.de/feeds/highlights) an. Caschys Blog leider nicht.
+
+Ich hab trotzdem mal beides in Feedly eingepflegt. Feedly gibt mir für Caschys Blog ein Gefühl dafür, was gerade popular und trending ist. So sieht das ganze bei mir aus.
+
+![](https://i.imgur.com/56UeKbO.png)
+
 # Fastest way to search your Linux terminal 
 
 Install [fzf](https://github.com/junegunn/fzf) and press `Ctrl + R` to search your command line history. Amazing stuff!
