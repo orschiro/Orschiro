@@ -11,7 +11,7 @@ Wenn du für etwas auf dieser Seite einen Kommentar hinterlassen möchtest, dann
 * TOC
 {:toc}
 
-# Fix dnfdragora
+# Fix dnfdragora Fedora Xfce update nofifier
 
 I found the Fedora Xfce update notifier dnfdragora to never work properly out of the box. I added the two following lines to my `crontab -e` to fix this.
 
