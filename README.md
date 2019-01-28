@@ -11,6 +11,17 @@ Wenn du für etwas auf dieser Seite einen Kommentar hinterlassen möchtest, dann
 * TOC
 {:toc}
 
+# Github Pages Table of Contents README.md
+
+See this nice automatically generated table of content / index above? Yes, it's possible to have that in a README.md that's hosted on Github Pages. Add `markdown: kramdown` to your `_config.yml` and subsequently the following snippet where you want your TOC to appear in the README. 
+
+```
+# Table of Contents
+
+* TOC
+{:toc}
+```
+
 # Fix dnfdragora Fedora Xfce update nofifier
 
 I found the Fedora Xfce update notifier dnfdragora to never work properly out of the box. I added the two following lines to my `crontab -e` to fix this.
