@@ -11,6 +11,14 @@ Wenn du für etwas auf dieser Seite einen Kommentar hinterlassen möchtest, dann
 * TOC
 {:toc}
 
+# Rofi Xfce window switcher and application launcher
+
+Found [Rofi]() to be the best way to quickly switch windows and launch apps on Xfce. I mapped the following command to the Super key.
+
+```
+rofi -combi-modi window,drun -theme Arc-Dark -show combi -modi combi
+```
+
 # Blue zone longevity best practices lessons learned
 
 - Drinking a glass of good red wine from time to time is not bad
