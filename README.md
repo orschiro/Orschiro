@@ -11,6 +11,13 @@ Wenn du für etwas auf dieser Seite einen Kommentar hinterlassen möchtest, dann
 * TOC
 {:toc}
 
+# Best Chrome extensions
+
+Hands on the best Chrome extensions I have found:
+
+![](https://i.imgur.com/oIAvl7H.png)
+![](https://i.imgur.com/dYc4npo.png)
+
 # Rofi Xfce window switcher and application launcher
 
 Found [Rofi](https://github.com/DaveDavenport/rofi/) to be the best way to quickly switch windows and launch apps on Xfce. I mapped the following command to the Super key.
