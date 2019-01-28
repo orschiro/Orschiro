@@ -11,6 +11,20 @@ Wenn du für etwas auf dieser Seite einen Kommentar hinterlassen möchtest, dann
 * TOC
 {:toc}
 
+# Blue zone longevity best practices lessons learned
+
+- Drinking a glass of good red wine from time to time is not bad
+- Drinking one or two cups of coffee a day is not bad either
+- Never skip a decent breakfast
+- Eat a good lunch around 12-13 o clock
+- Eat a small dinner around 17-18 o clock
+- Eat salt in moderation
+- Try to avoid sugar
+- Try to avoid processed / industrial food
+- Focus on legumes, seasonal vegetables, nuts and good oil from your region
+- Try to be in motion for 2-3 hours a day
+- Walking is the best sport
+
 # Feedly RSS tips and tricks best practices
 
 - Add an unread counter to your Chrome toolbar using [this extension](https://olsh.me/Feedly-Notifier/)
