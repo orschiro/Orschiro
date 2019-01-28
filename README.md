@@ -1,10 +1,6 @@
 {% include header.html %}
 
-[Edit](https://github.com/orschiro/Orschiro/edit/master/README.md)
-
-If you want to leave a comment on anything you find on this page, [click here](https://orzanna.de/#leave-a-comment).
-
-Wenn du für etwas auf dieser Seite einen Kommentar hinterlassen möchtest, dann [klick hier](https://orzanna.de/#leave-a-comment). 
+[View](https://orzanna.de/) | [Edit](https://github.com/orschiro/Orschiro/edit/master/README.md) | [Comment](https://orzanna.de/#leave-a-comment)
 
 # Table of Contents
 
