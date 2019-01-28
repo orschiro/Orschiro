@@ -11,6 +11,10 @@ Wenn du für etwas auf dieser Seite einen Kommentar hinterlassen möchtest, dann
 * TOC
 {:toc}
 
+# Chrome dark mode
+
+Hands down the best extension I have come across to darken any website without excessive memory or CPU use. It's called [Dark Reader Dark](https://chrome.google.com/webstore/detail/dark-reader-dark/kbbbldgkhcpkmmjbjelmkjkchibeklng). Totally recommendable!
+
 # Reddit bookmarklet one click create rss feed
 
 Use the following bookmarklet to create an RSS feed based on the Reddit thread you're looking at. Handy to subscribe to it using any kind of RSS reader!
