@@ -11,6 +11,16 @@ Wenn du für etwas auf dieser Seite einen Kommentar hinterlassen möchtest, dann
 * TOC
 {:toc}
 
+# Reddit bookmarklet one click create rss feed
+
+Use the following bookmarklet to create an RSS feed based on the Reddit thread you're looking at. Handy to subscribe to it using any kind of RSS reader!
+
+```
+javascript:(function(){document.location+='/.rss'}());
+```
+
+![](https://i.imgur.com/H4YbQYh.png)
+
 # Best Chrome extensions
 
 Hands on the best Chrome extensions I have found:
