@@ -11,6 +11,15 @@ Wenn du für etwas auf dieser Seite einen Kommentar hinterlassen möchtest, dann
 * TOC
 {:toc}
 
+# Feedly RSS tips and tricks best practices
+
+- Add an unread counter to your Chrome toolbar using [this extension](https://olsh.me/Feedly-Notifier/)
+- Tweak this extension to open Feedly on extension icon click
+- Disable Feedly auto mark as read on scroll
+- Tweak sources to directly open source on click
+- Get yourself used to using the X (mark as read and hide)
+- IMPORTANT: Don't feel any pressure getting your unread counter down to 0
+
 # Github Pages Table of Contents README.md
 
 See this nice automatically generated table of content / index above? Yes, it's possible to have that in a README.md that's hosted on Github Pages. Add `markdown: kramdown` to your `_config.yml` and subsequently the following snippet where you want your TOC to appear in the README. 
