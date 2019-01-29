@@ -57,14 +57,13 @@ rofi -combi-modi window,drun -theme Arc-Dark -show combi -modi combi
 - Drinking one or two cups of coffee a day is not bad either
 - Never skip a decent breakfast
 - Eat a good lunch around 12-13 o clock
-- Eat a small dinner around 17-18 o clock
+- Eat a sufficient dinner around 17-18 o clock
 - Eat salt in moderation
-- Try to avoid sugar
-- Try to avoid processed / industrial food
-- Focus on legumes, seasonal vegetables, nuts and good oil from your region
+- Try to avoid sugar and processed / industrial food
+- Focus on legumes, seasonal vegetables (especially beets like onions, carrots, curcuma, garlic, beetroots), nuts / seets and good oil typical for your region
 - Try to be in motion for 2-3 hours a day
 - Walking is the best sport
-- Sleep sufficiently
+- Sleep sufficiently (Go to bed not too late and don't get up too late either)
 - Eat good carbs (artesanal pasta/Spätzle) and avoid bad carbs (white bread, industrial pasta and potatoes)
 
 # Feedly RSS tips and tricks best practices
