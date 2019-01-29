@@ -65,7 +65,7 @@ rofi -combi-modi window,drun -theme Arc-Dark -show combi -modi combi
 - Try to be in motion for 2-3 hours a day
 - Walking is the best sport
 - Sleep sufficiently
-- Eat good carbs (artesanal pasta) and avoid bad carbs (white bread, industrial pasta and potatoes)
+- Eat good carbs (artesanal pasta/Spätzle) and avoid bad carbs (white bread, industrial pasta and potatoes)
 
 # Feedly RSS tips and tricks best practices
 
