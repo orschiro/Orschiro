@@ -1,5 +1,7 @@
 {% include header.html %}
 
+Working on my own blue zone! :-)
+
 [View](https://orzanna.de/) | [Edit](https://github.com/orschiro/Orschiro/edit/master/README.md) | [Comment](https://orzanna.de/#leave-a-comment)
 
 # Table of Contents
