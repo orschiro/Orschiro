@@ -97,6 +97,8 @@ I found the Fedora Xfce update notifier dnfdragora to never work properly out of
 
 ![](https://i.imgur.com/lvAfzUN.png)
 
+![](https://i.imgur.com/KbqYnGv.png)
+
 # Aktive Communities GamersGlobal & Caschys Blog via Feedly folgen
 
 Warum lese ich bestimmte Seiten gerne? Weil sie eine aktive Community haben, die viele Kommentare postet. So lese ich z.B. gerne [GamersGlobal](https://www.gamersglobal.de/), wenn es um Spielethemen geht und [Caschys Blog](https://stadt-bremerhaven.de/) für Technik- und Internetthemen. Da wird immer rege diskutiert und kommentiert. Oftmals spannender und interessanter als der Artikel selbst. :-)
