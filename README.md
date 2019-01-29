@@ -13,6 +13,15 @@ Working on my own blue zone! :-)
 * TOC
 {:toc}
 
+# Essential Linux software I cannot work without
+
+- Flameshot for screenshot annotation
+- Rofi to launch apps and switch windows
+- Xfce as my desktop environment
+- Telegram Desktop for its tray icon to stay up to date with new messages
+- Chrome browser (yes...)
+- Crontab as my hourly live saver
+
 # Chrome dark mode
 
 Hands down the best extension I have come across to darken any website without excessive memory or CPU use. It's called [Dark Reader Dark](https://chrome.google.com/webstore/detail/dark-reader-dark/kbbbldgkhcpkmmjbjelmkjkchibeklng). Totally recommendable!
@@ -44,7 +53,7 @@ rofi -combi-modi window,drun -theme Arc-Dark -show combi -modi combi
 
 # Blue zone longevity best practices lessons learned
 
-- Drinking a glass of good red wine from time to time is not bad
+- Drinking a glass of good (organic) red wine from time to time is not bad
 - Drinking one or two cups of coffee a day is not bad either
 - Never skip a decent breakfast
 - Eat a good lunch around 12-13 o clock
@@ -55,6 +64,8 @@ rofi -combi-modi window,drun -theme Arc-Dark -show combi -modi combi
 - Focus on legumes, seasonal vegetables, nuts and good oil from your region
 - Try to be in motion for 2-3 hours a day
 - Walking is the best sport
+- Sleep sufficiently
+- Eat good carbs (artesanal pasta) and avoid bad carbs (white bread, industrial pasta and potatoes)
 
 # Feedly RSS tips and tricks best practices
 
