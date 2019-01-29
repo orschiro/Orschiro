@@ -2,6 +2,10 @@
 
 Working on my own blue zone! :-)
 
+![](https://media.licdn.com/dms/image/C4D03AQG6BcwZrH-ytA/profile-displayphoto-shrink_200_200/0?e=1554336000&v=beta&t=I8tJMtcmzSqlw5dJVCMUpQ_JgR3whYC4SO_BCXKMAJs)
+
+![](https://media.licdn.com/dms/image/C4D16AQEh5uPtaIzs0g/profile-displaybackgroundimage-shrink_350_1400/0?e=1554336000&v=beta&t=vkWwLvGi7ZTqOFTx9TjO7DuP-FhwYwpxVmw6oVuxxp4)
+
 [View](https://orzanna.de/) | [Edit](https://github.com/orschiro/Orschiro/edit/master/README.md) | [Comment](https://orzanna.de/#leave-a-comment)
 
 # Table of Contents
