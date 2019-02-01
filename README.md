@@ -5,6 +5,7 @@
 Saying hello to you reading these words right now! ;-)
 
 {% include body.html %}
+{% include ad.html %}
 
 # Leave a comment
 
