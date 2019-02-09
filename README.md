@@ -4,9 +4,8 @@
 
 # Hello! 👋
 
-{% include body.html %}
-{% include ad.html %}
-
-# Leave a comment
+# And who are you?
 
 {% include disqus.html %}
+{% include body.html %}
+{% include ad.html %}
