@@ -4,7 +4,7 @@
 
 # Hello! 👋
 
-# And who are you? Tell me below! ⬇
+# How are you? ⬇
 
 {% include disqus.html %}
 {% include body.html %}
