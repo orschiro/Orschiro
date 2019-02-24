@@ -1,8 +1,10 @@
 {% include header.html %}
 
-![](https://media.licdn.com/dms/image/C4D03AQG6BcwZrH-ytA/profile-displayphoto-shrink_200_200/0?e=1554336000&v=beta&t=I8tJMtcmzSqlw5dJVCMUpQ_JgR3whYC4SO_BCXKMAJs)
+# What's on my mind?
 
-# 😃👋
+Finally found a way to display [Feedly](https://play.google.com/store/apps/details?id=com.devhd.feedly&hl=en) unread count on my home screen thanks to [Palabre](https://play.google.com/store/apps/details?id=com.levelup.palabre&hl=en). 😍🤗
+
+![](https://i.imgur.com/QPybCsg.png)
 
 {% include body.html %}
 {% include ad.html %}
