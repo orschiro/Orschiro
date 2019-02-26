@@ -2,7 +2,9 @@
 
 `| Robert Orzanna: Status`
 
-Finally found a way to display [Feedly](https://play.google.com/store/apps/details?id=com.devhd.feedly&hl=en) unread count on my home screen thanks to [Palabre](https://play.google.com/store/apps/details?id=com.levelup.palabre&hl=en). 😍🤗
+- Profile photo:
+- Background image:
+- Bio: Found a way to display Feedly unread count on my home screen 😊
 
 ![](https://i.imgur.com/QPybCsg.png)
 
