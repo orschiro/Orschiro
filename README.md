@@ -1,12 +1,8 @@
 {% include header.html %}
 
-`| Robert Orzanna: Status`
-
-- Profile photo:
-- Background image:
+- Profile photo: ![profile photo](profile-photo.jpeg)
+- Background image: ![background photo](background-photo.jpeg)
 - Bio: Found a way to display Feedly unread count on my home screen 😊
-
-![](https://i.imgur.com/QPybCsg.png)
 
 {% include body.html %}
 {% include ad.html %}
