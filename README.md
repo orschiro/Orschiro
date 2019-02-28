@@ -1,10 +1,9 @@
 {% include header.html %}
 
-| Profile photo                        	| Background photo                           	| Bio                                                            	|
-|--------------------------------------	|--------------------------------------------	|----------------------------------------------------------------	|
-| ![profile photo](profile-photo.jpeg) 	| ![background photo](background-photo.jpeg) 	| http://bit.ly/orschiro 	|
+## Blogtrottr
 
-{% include twitter.html %}
+[@blogtrottr](https://twitter.com/blogtrottr) is my favourite way to read my RSS feeds in my [@gmail](https://twitter.com/gmail) inbox! ❤😙
+
 {% include body.html %}
 {% include ad.html %}
 {% include disqus.html %}
