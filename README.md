@@ -1,17 +1,12 @@
 {% include header.html %}
 
-### Status
+### Podcasts 
 
-Ich liebe die Podcasts des Deutschlandradios! ❤ Wer mithören will, hier gibt's alle in einem:
-
-- [Deutschlandfunk](https://player.fm/orschiro/deutschlandfunk-podcasts/all)
-- [Deutschlandfunk Kultur](https://player.fm/orschiro/deutschlandfunk-kultur-podcasts/all)
-- [Deutschlandfunk Nova](https://player.fm/orschiro/deutschlandfunk-nova-podcasts/all)
-
-### 2019-03-01
-[@rescuetime](https://twitter.com/rescuetime?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) this is cool to know how much screen time you're having daily! 🥳
-
-![](https://i.imgur.com/4TZORWo.png)
+1. [Deutschlandradio](https://player.fm/series/2489469)
+2. [Deutschlandfunk](https://player.fm/series/2489467) 
+3. [Deutschlandfunk Kultur](https://player.fm/series/2489466) 
+4. [Deutschlandfunk Nova](https://player.fm/series/2489465)
+5. [ABC Podcasts](https://player.fm/series/2489906)
 
 {% include body.html %}
 {% include ad.html %}
