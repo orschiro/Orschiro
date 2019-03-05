@@ -8,6 +8,10 @@
 4. [Deutschlandfunk Nova](https://player.fm/series/2489465)
 5. [ABC Podcasts](https://player.fm/series/2489906)
 
+### Guitar loops
+
+- [Unconcerned](https://github.com/orschiro/guitar/tree/master/unconcerned)
+
 {% include body.html %}
 {% include ad.html %}
 {% include disqus.html %}
