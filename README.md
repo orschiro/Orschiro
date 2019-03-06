@@ -2,11 +2,11 @@
 
 ### Podcasts 
 
-1. [Deutschlandradio](https://player.fm/series/2489469)
-2. [Deutschlandfunk](https://player.fm/series/2489467) 
-3. [Deutschlandfunk Kultur](https://player.fm/series/2489466) 
-4. [Deutschlandfunk Nova](https://player.fm/series/2489465)
-5. [ABC Podcasts](https://player.fm/series/2489906)
+- [Deutschlandradio](https://player.fm/series/2489469)
+- [Deutschlandfunk](https://player.fm/series/2489467) 
+- [Deutschlandfunk Kultur](https://player.fm/series/2489466) 
+- [Deutschlandfunk Nova](https://player.fm/series/2489465)
+- [ABC Podcasts](https://player.fm/series/2489906)
 
 ### Guitar loops
 
