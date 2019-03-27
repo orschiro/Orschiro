@@ -5,4 +5,3 @@
 
 {% include body.html %}
 {% include ad.html %}
-{% include disqus.html %}
