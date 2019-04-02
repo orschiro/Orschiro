@@ -14,4 +14,4 @@ This extension is actively maintained and supports the latest version of Google 
 ](https://i.imgur.com/V0t6Kz9.png)](https://chrome.google.com/webstore/detail/alt-%20-q-switch-tabs-keybo/odhjcgnlbagjllfbilicalpigimhdcll)
 
 {% include body.html %}
-{% include ad.html %}
+{% include ad2.html %}
